@@ -1,4 +1,4 @@
-##Child Motality. SICSS2019@UCT
+# Child Motality. SICSS2019UCT
 
 This project is a part of our research work that was conducted at University of Cape Town in Summer Institute for Computational Social Science
 Link: https://compsocialscience.github.io/
